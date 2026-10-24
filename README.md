@@ -1,3 +1,12 @@
+
+## Product Review
+
+Read my full product review, covering the three key problems identified, prioritisation and rationale, the proposed feature specification, and the success metric.
+
+**[Read the Full Product Review →](https://github.com/Miss-harrison/agentplace-product-review/blob/main/product-review.md)**
+
+---
+
 # Agentplace | Product Management Assessment
 
 **Product Strategy · User Experience · Prioritisation · Product Delivery**
